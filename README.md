@@ -16,7 +16,7 @@
 - **Responsive Design:** Seamless experience across desktop and mobile devices
 - **Transaction History:** Complete audit trail of all financial activities
 
-## Technologies Used
+## 🛠️ Tech Stack
 - MongoDB
 - Express.js
 - React
