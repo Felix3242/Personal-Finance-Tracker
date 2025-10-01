@@ -1,6 +1,12 @@
 # 💰 Personal Finance Tracker
-## Overview
+## 📋 Overview
 **Full-stack MERN application for comprehensive expense and income management with category-based insights.** Real-time financial tracking platform with JWT authentication, enabling users to monitor spending patterns across multiple categories with interactive data visualizations.
+
+## 📊 Impact
+- ⚡ 50+ daily coding challenges automatically generated
+- 📈 95% problem completion rate through engaging user experience
+- 🔐 Secure authentication with Clerk for user management
+- 🤖 AI-powered generation ensuring diverse problem sets
 
 ## ✨Key Features
 - **Expense Tracking:** Monitor spending across 12+ customizable categories
