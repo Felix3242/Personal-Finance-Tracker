@@ -1,25 +1,20 @@
 # 💰 Personal Finance Tracker
-## 📋 Overview
-**Full-stack MERN application for comprehensive expense and income management with category-based insights.** Real-time financial tracking platform with JWT authentication, enabling users to monitor spending patterns across multiple categories with interactive data visualizations.
+## Overview
+Personal Finance Tracker is a financial management tool that helps users monitor spending patterns across multiple categories, track income sources, and visualize cash flow in real-time. Built with a focus on security and usability.
 
-## 📊 Impact
-- ⚡ 50+ daily coding challenges automatically generated
-- 📈 95% problem completion rate through engaging user experience
-- 🔐 Secure authentication with Clerk for user management
-- 🤖 AI-powered generation ensuring diverse problem sets
+## Features
+- Expense and income tracking across 12+ categories
+- JWT-based authentication and session management
+- Real-time financial data visualization with React charts
+- Complete transaction history and audit trail
+- Responsive design for desktop and mobile
 
-## ✨Key Features
-- **Expense Tracking:** Monitor spending across 12+ customizable categories
-- **Income Management:** Track multiple income sources and cash flow
-- **Secure Authentication:** JWT-based user authentication and session management
-- **Interactive Charts:** Real-time visualization of financial data with React charts
-- **Responsive Design:** Seamless experience across desktop and mobile devices
-- **Transaction History:** Complete audit trail of all financial activities
+## Tech Stack
+- **Frontend**: React, Chart.js, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT
 
-## 🛠️ Tech Stack
-- MongoDB
-- Express.js
-- React
-- Node.js
-- JWT Authentication
-- Chart.js
+## Getting Started
+npm install
+npm run dev
