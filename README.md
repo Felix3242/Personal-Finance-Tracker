@@ -16,5 +16,7 @@ Personal Finance Tracker is a financial management tool that helps users monitor
 - **Authentication**: JWT
 
 ## Getting Started
+```bash
 npm install
 npm run dev
+```
