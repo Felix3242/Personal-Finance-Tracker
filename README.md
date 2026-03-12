@@ -1,6 +1,5 @@
 # 💰 Personal Finance Tracker
-## Overview
-Personal Finance Tracker is a financial management tool that helps users monitor spending patterns across multiple categories, track income sources, and visualize cash flow in real-time. Built with a focus on security and usability.
+A full-stack MERN application for tracking expenses and income with category-based insights and interactive visualizations. Enables users to monitor spending patterns across multiple categories and visualize cash flow in real-time with secure authentication.
 
 ## Features
 - Expense and income tracking across 12+ categories
